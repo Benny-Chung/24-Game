@@ -1,0 +1,9 @@
+Rank,Player,Password,Games won,Games played,Avg. winning time
+1,Player 4,p4password,20,35,10.4
+2,Player 2,p2pw,18,25,13.2
+3,Player 6,p6pass,18,31,15.1
+4,Player 8,p8p8,16,30,12.8
+5,Player 7,p7word,10,25,10.2
+6,Player new,newpass,0,0,0
+7,new,new,0,0,0
+8,88,8,0,0,0
